@@ -16,5 +16,5 @@ Original image → SNES palette
 ## 🚀 Installation
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ether.git
+git clone https://github.com/junixbr/ether.git
 cd ether
