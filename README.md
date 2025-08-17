@@ -4,7 +4,7 @@
 
 ## ✨ Features
 - Convert any image to match a selected palette
-- Support for custom color palettes (e.g., Sega Genesis)
+- Support for standard (e.g., Sega Genesis) or custom color palettes
 - Batch mode, is possible to convert more than one image with the same palette
 - Designed for pixel art, but would work with any raster image
 - Open source under the BSD 2-Clause license
@@ -20,5 +20,6 @@ Batch mode (multiple files)
 
 
 I made this for my use/purpose, you can use/change it whatever your need is.
+
 
 
