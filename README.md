@@ -16,8 +16,9 @@ Original image → MSX palette
 
 Batch mode (multiple files)
 
-![alt text](https://github.com/junixbr/Ether/blob/main/Screenshot_1.png?raw=true)
+![alt text](https://github.com/junixbr/Ether/blob/main/Screenshot_2.png?raw=true)
 
 
 I made this for my use/purpose, you can use/change it whatever your need is.
+
 
