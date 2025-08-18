@@ -94,7 +94,7 @@ namespace Ether
             this.Name = "AboutForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "About";
-            this.Icon = new System.Drawing.Icon("Resources/app.ico");
+            this.Icon = new System.Drawing.Icon("../../../Resources/app.ico");
             this.ResumeLayout(false);
             this.PerformLayout();
         }

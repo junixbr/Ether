@@ -55,7 +55,7 @@ namespace Ether
             this.MinimizeBox = false;
             this.StartPosition = FormStartPosition.CenterParent;
             this.Text = "Converting Images...";
-            this.ControlBox = false; // Prevent user from closing during operation
+            this.ControlBox = false;
 
             this.ResumeLayout(false);
         }
