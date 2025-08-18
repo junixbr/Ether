@@ -20,6 +20,7 @@ Batch mode (multiple files)
 
 
 I made this using Visual Basic 2022 with .NET 8 for my use/purpose, you can use/change it whatever your need is.
+You can download the latest release [here](https://github.com/junixbr/Ether/releases/latest/download/Ether.zip).
 
 
 
