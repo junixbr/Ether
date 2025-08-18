@@ -1,4 +1,4 @@
-﻿namespace Ether
+namespace Ether
 {
     partial class AboutForm
     {
@@ -27,11 +27,12 @@
 
             // aboutLabel
             this.aboutLabel.Text =
+                "Ether is an open-source pixel art color converter that lets you\ntransform images according to a chosen color palette.\n\n" +
                 "BSD 2-Clause License\n" +
                 "Copyright (c) 2025 Alfredo Saldanha\n\n" +
                 "All rights reserved.\n\n" +
                 "Redistribution and use in source and binary forms, with or without\n" +
-                "modification, are permitted provided that the following conditions are met: ...\n";
+                "modification, are permitted provided that the following conditions\nare met...\n";
             this.aboutLabel.AutoSize = true;
             this.aboutLabel.Location = new System.Drawing.Point(10, 10);
             this.aboutLabel.MaximumSize = new System.Drawing.Size(380, 0);
@@ -43,12 +44,12 @@
                 System.Diagnostics.Process.Start("https://opensource.org/licenses/BSD-2-Clause");
             };
             this.licenseLink.AutoSize = true;
-            this.licenseLink.Location = new System.Drawing.Point(10, 130);
+            this.licenseLink.Location = new System.Drawing.Point(10, 180);
 
             // author
             this.authorLabel.Text = "Author: Alfredo Saldanha";
             this.authorLabel.AutoSize = true;
-            this.authorLabel.Location = new System.Drawing.Point(10, 160);
+            this.authorLabel.Location = new System.Drawing.Point(10, 210);
 
             // githubLink
             this.githubLink.Text = "Github: https://github.com/junixbr";
@@ -57,7 +58,7 @@
                 System.Diagnostics.Process.Start("https://github.com/junixbr");
             };
             this.githubLink.AutoSize = true;
-            this.githubLink.Location = new System.Drawing.Point(10, 180);
+            this.githubLink.Location = new System.Drawing.Point(10, 230);
 
             // emailLink
             this.emailLink.Text = "Email: junixbr@gmail.com (click to copy)";
@@ -67,12 +68,12 @@
                 System.Windows.Forms.MessageBox.Show("Email copied to clipboard.", "Copied", System.Windows.Forms.MessageBoxButtons.OK, System.Windows.Forms.MessageBoxIcon.Information);
             };
             this.emailLink.AutoSize = true;
-            this.emailLink.Location = new System.Drawing.Point(10, 200);
+            this.emailLink.Location = new System.Drawing.Point(10, 250);
 
             // AboutForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(400, 270);
+            this.ClientSize = new System.Drawing.Size(420, 320);
             this.Controls.Add(this.aboutLabel);
             this.Controls.Add(this.licenseLink);
             this.Controls.Add(this.authorLabel);
@@ -82,7 +83,7 @@
             this.okButton = new System.Windows.Forms.Button();
             this.okButton.Text = "OK";
             this.okButton.Size = new System.Drawing.Size(80, 30);
-            this.okButton.Location = new System.Drawing.Point((this.ClientSize.Width - 80) / 2, 230);
+            this.okButton.Location = new System.Drawing.Point((this.ClientSize.Width - 80) / 2, 280);
             this.okButton.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.okButton.Click += (s, e) => this.Close();
             this.Controls.Add(this.okButton);
