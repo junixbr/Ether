@@ -19,7 +19,8 @@ Batch mode (multiple files)
 ![alt text](https://github.com/junixbr/Ether/blob/main/Screenshot_2.png?raw=true)
 
 
-I made this for my use/purpose, you can use/change it whatever your need is.
+I made this using Visual Basic 2022 with .NET 8 for my use/purpose, you can use/change it whatever your need is.
+
 
 
 
