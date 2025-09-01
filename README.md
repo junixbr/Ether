@@ -1,5 +1,8 @@
 # Ether
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/junixbr/Ether)
+![GitHub all releases](https://img.shields.io/github/downloads/junixbr/Ether/total.svg)
+
 **Ether** is an open-source pixel art color converter that lets you transform images (in very easy way) according to a chosen color palette. Whether you want your art to feel like it belongs on a Sega Master System, SNES, or your own custom palette, Ether makes it happen with accurate color mapping.
 
 ## ✨ Features
